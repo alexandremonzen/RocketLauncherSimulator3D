@@ -1,9 +1,10 @@
 # Rocket Launcher Simulator 3D
+Project realized during between 14/01/2021 and 21/01/2021.
 
 ## ❔About
 In this simulator, you are able to launch rockets into the sky! Try different launch angles with random wind force directions to reach places on the map.
 
-The rocket also contains a lot of information to track coordinates and four launch states (launch, main engine stage, secondary engine stage, and parachute) that can change the results, how higher and far will you get?
+The rocket also contains a lot of information to track coordinates and four launch states (launch, main engine stage, secondary engine stage, and parachute) that can change the results, how higher and far will you get? 
 
 ## 📸Project Preview
 ![preview](RocketLauncherSimulator3D_AlexandreMonzen/Assets/Screenshots/Screenshot1.png)
